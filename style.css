@@ -376,7 +376,7 @@ th.ours-col::before {
     width: 360px;
     box-shadow: 0 4px 30px rgba(0,0,0,0.08);
     position: sticky;
-    top: -40px;
+    top: 25px;
 }
 .score-section {
     text-align: center;
